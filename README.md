@@ -1,5 +1,1 @@
-# nma_23_rnn
-# nma_23_rnn
-# nma_23_rnn
-# nma_23_rnn
-# nma_23_rnn
+# Project repository to the Neuromatch Academy Computational Neuroscience course
